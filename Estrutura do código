@@ -1,0 +1,13 @@
+Estrutura do Código
+restaurantes: Lista de dicionários que armazena os dados dos restaurantes.
+exibir_nome_do_programa: Função que exibe o nome do programa com uma arte ASCII.
+exibir_opcoes: Função que exibe as opções do menu principal.
+finalizar_app: Função que exibe uma mensagem de encerramento do programa.
+voltar_ao_menu_principal: Função que permite o retorno ao menu principal após uma ação.
+opcao_invalida: Função que lida com entradas inválidas do usuário.
+exibir_subtitulo: Função que exibe subtítulos formatados com linhas de separação.
+cadastrar_novo_restaurante: Função que permite o cadastro de novos restaurantes.
+listar_restaurantes: Função que lista todos os restaurantes cadastrados.
+alternar_estado_restaurante: Função que alterna o estado (ativado/desativado) de um restaurante.
+escolher_opcao: Função que lida com a escolha do usuário no menu principal.
+main: Função principal que inicia o programa.
